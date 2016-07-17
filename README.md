@@ -10,7 +10,7 @@ WebTutor 是每週一次的主題式技術分享聚會
 
 若願意對[這些](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)主題做分享的話，請回覆 『__我可以分享__』 我們會與你聯絡
 
-我們會盡可能邀請有相關經驗的人來分享該主題
+我們會邀請有相關經驗的人來分享該主題
 
 ## 加入telegram: https://telegram.me/web_tutor
 為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
