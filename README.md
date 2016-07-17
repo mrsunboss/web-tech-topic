@@ -15,12 +15,10 @@ WebTutor 是每週一次的主題式技術分享聚會
 ## 加入telegram: https://telegram.me/web_tutor
 為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
 
---
+## 場次及主題
 時間: 每週四晚上 7:30 ~ 9:30
 
 地點: 新北創力坊 - 新北市三重區重新路一段108號3樓(捷運台北橋站3樓)
-
-場次:
 
 1. 7/28 
 2. 8/4
