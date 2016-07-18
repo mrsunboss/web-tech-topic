@@ -24,9 +24,11 @@ WebTutor 是每週一次的主題式技術分享聚會
 
 價錢: Free
 
-1. 7/28 
-  * __Rails i18n 經驗談__ - [王信凱](github.com/jcsky)
-2. 8/4
-  * __Feature testing with RSpec__ - [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts)(Wish8 fullstack developer)
+* 7/28
+  1. __Rails i18n 經驗談__ - [王信凱](github.com/jcsky)
+  2. 未定 
+* 8/4 
+  1. __Feature testing with RSpec__ - [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts)(Wish8 fullstack developer)
+  2. 未定
  
       
