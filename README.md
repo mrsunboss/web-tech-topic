@@ -25,3 +25,5 @@ WebTutor 是每週一次的主題式技術分享聚會
 
 1. 7/28 
 2. 8/4
+  * [陳麒文 Wish8 fullstack developer](https://www.facebook.com/chiwenchen.tw?fref=ts)
+    __Feature testing with RSpec__
