@@ -24,11 +24,14 @@ WebTutor 是每週一次的主題式技術分享聚會
 
 價錢: Free
 
-* 7/28
-  1. __Rails i18n 多國語言實作技巧__ - [王信凱](github.com/jcsky)
-  2. 未定 
+### 7/28
+
+#### __1. Rails i18n 多國語言實作技巧__
+#### __2. Rails background job with sidekiq__
+  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
+  
 * 8/4 
   1. __Rails Feature testing with RSpec__ - [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts)(Wish8 fullstack developer)
-  2. 未定
+  2. 
  
       
