@@ -1,4 +1,4 @@
-# web-tutor-on-thursday
+# Web tech Topic
 
 WebTutor 是每週一次的主題式技術分享聚會
 
