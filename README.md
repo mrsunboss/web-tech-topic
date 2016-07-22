@@ -1,6 +1,6 @@
-# Web tech Topic
+# Web Tech Topic
 
-WebTutor 是每週一次的主題式技術分享聚會
+Web Tech Topic 是每週一次的主題式技術分享聚會
 
 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library .. 
 
