@@ -27,8 +27,10 @@ WebTutor 是每週一次的主題式技術分享聚會
 ### 7/28
 
 #### __1. Rails i18n 多國語言實作技巧__
-#### __2. Rails background job with sidekiq__
   講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
+  
+#### __2. react 基本概念
+  講者: [李俊鋒]() - iCook developer
 
 ### 8/4 
 
