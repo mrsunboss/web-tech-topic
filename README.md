@@ -35,7 +35,7 @@ WebTutor 是每週一次的主題式技術分享聚會
 #### __1. Rails Feature testing with RSpec__
   講者: [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer
 
-#### __2. Hello Docker__
-  講者: [童睿騰]() - 
+#### __2. 使用Vagrant 建立本機的虛擬環境__
+  講者: [童睿騰](https://github.com/jamestong10) - fullstack developer
  
       
