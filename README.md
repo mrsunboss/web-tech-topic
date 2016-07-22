@@ -30,7 +30,7 @@ WebTutor 是每週一次的主題式技術分享聚會
   講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
   
 #### __2. react 基本概念__
-  講者: [李俊鋒]() - iCook developer
+  講者: [李俊鋒](https://github.com/frozenfung) - iCook developer
 
 ### 8/4 
 
