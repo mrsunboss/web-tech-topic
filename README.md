@@ -40,4 +40,19 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 #### __2. 使用Vagrant 建立本機的虛擬環境__
   講者: [童睿騰](https://github.com/jamestong10) - fullstack developer
  
-      
+### 8/11
+
+#### __1. 從缺，歡迎認養
+  講者: 
+
+#### __2. 從缺，歡迎認養
+  講者: 
+ 
+### 8/18
+
+#### __1. webpack 
+  講者: 從缺，歡迎認養
+
+#### __2. vue.js 初體驗：開發勞基法計算機
+  講者: [朱昱任](https://github.com/yurenju) - Vectr developer
+ 
