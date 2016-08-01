@@ -56,3 +56,10 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 #### __2. vue.js 初體驗：開發勞基法計算機
   講者: [朱昱任](https://github.com/yurenju) - Vectr developer
  
+### 8/25
+
+#### __1. 
+  講者: 吳政賢
+  
+#### __2. 從缺，歡迎認養
+  講者: 
