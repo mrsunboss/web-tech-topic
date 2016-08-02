@@ -29,7 +29,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 #### __1. Rails i18n 多國語言實作技巧__ [投影片](https://hackmd.io/p/HJarJWGd#/)
   講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
   
-#### __2. react 基本概念__
+#### __2. react 基本概念__ [投影片](http://frozenfung.herokuapp.com/react-intro)
   講者: [李俊鋒](https://github.com/frozenfung) - iCook developer
 
 ### 8/4 
