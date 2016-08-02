@@ -61,5 +61,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 #### __1. 
   講者: 吳政賢
   
-#### __2. 從缺，歡迎認養
-  講者: 
+#### __2. vue.js on rails - Rails engineer
+  講者: [Vincent](https://github.com/GoodVincentTu)
+
+  主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
