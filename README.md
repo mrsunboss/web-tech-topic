@@ -42,26 +42,26 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
  
 ### 8/11
 
-#### __1. Play CSS3 animation as you can imagine
+#### __1. Play CSS3 animation as you can imagine__
   講者: [林立秦]() - 25sprout front-end intern
 
-#### __2. Raindrops in Pure CSS
+#### __2. Raindrops in Pure CSS__
   講者: [R+](https://github.com/Rplus)
  
 ### 8/18
 
-#### __1. webpack 
+#### __1. webpack __
   講者: 從缺，歡迎認養
 
-#### __2. vue.js 初體驗：開發勞基法計算機
+#### __2. vue.js 初體驗：開發勞基法計算機__
   講者: [朱昱任](https://github.com/yurenju) - Vectr developer
  
 ### 8/25
 
-#### __1. 
+#### __1. __
   講者: 吳政賢
   
-#### __2. vue.js on rails - Rails engineer
+#### __2. vue.js on rails - Rails engineer__
   講者: [Vincent](https://github.com/GoodVincentTu)
 
   主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
