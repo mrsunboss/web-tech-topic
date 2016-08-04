@@ -45,8 +45,8 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 #### __1. Play CSS3 animation as you can imagine__
   講者: [林立秦]() - 25sprout front-end intern
 
-#### __2. Raindrops in Pure CSS__
-  講者: [R+](https://github.com/Rplus)
+#### __2. CSS 動畫入門__
+  講者: [R+](https://github.com/Rplus) - CSS 龍套君
  
 ### 8/18
 
