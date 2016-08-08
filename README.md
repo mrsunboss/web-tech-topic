@@ -58,8 +58,10 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
  
 ### 8/25
 
-#### __1.__
+#### __1. S3！系統架構的好夥伴__
   講者: 吳政賢
+  
+  主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！
   
 #### __2. vue.js on rails - Rails engineer__
   講者: [Vincent](https://github.com/GoodVincentTu)
