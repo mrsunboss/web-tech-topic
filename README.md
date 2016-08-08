@@ -65,3 +65,12 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
   講者: [Vincent](https://github.com/GoodVincentTu)
 
   主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
+
+### 9/8
+
+
+#### __1. docker__
+  講者: 從缺，歡迎認養
+  
+#### __2. 從缺，歡迎認養__
+  講者: 從缺，歡迎認養
