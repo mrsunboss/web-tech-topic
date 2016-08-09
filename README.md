@@ -34,7 +34,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 ### 8/4 
 
-#### __1. Rails Feature testing with RSpec__
+#### __1. Rails Feature testing with RSpec__ [投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
   講者: [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer
 
 #### __2. 使用Vagrant 建立本機的虛擬環境__
