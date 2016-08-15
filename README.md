@@ -16,7 +16,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
 一定要加入的原因是，遲到的話才能人幫你開門 ..!!
 
-## 加入gitter: https://gitter.im/amazing-tutor/web-tutor-on-thursday?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+## 加入gitter: https://goo.gl/woxDwx
 為什麼用 gitter? 因為gitter不審核、完全開放、而且可以寫markdown語法，貼code討論程式碼
 
 ## 場次及主題
