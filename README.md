@@ -66,8 +66,8 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 #### __1. docker__
   講者: [謝蹤影]()
   
-#### __2. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
+#### __2. Elastic Search on Rails 相關 gem 的使用__
+  講者: [柯秉承]()
 
 
 ## 過往主題
