@@ -4,7 +4,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library .. 
 
-預期每週將邀請兩位分享者，每位 30分鐘 分享及 15分鐘 QA
+預期每週將邀請2位講者、2個主題，每位30分鐘~1小時(含Q&A)
 
 任何想聽的主題，都可以在[這裡](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)許願，或『回覆 __+1__』
 
@@ -12,11 +12,15 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 我們會邀請有相關經驗的人來分享該主題
 
-## 加入telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA
-為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
-一定要加入的原因是，遲到的話才能人幫你開門 ..!!
+## 加入WTT聊天群組
 
-## 加入gitter: https://goo.gl/woxDwx
+## 加入telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA
+
+telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA  
+gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼)
+
+一定要加入的原因是，用於討論 WTT 的主題內容 (實際上.. 優先取得報名連結)
+
 為什麼用 gitter? 因為gitter不審核、完全開放、而且可以寫markdown語法，貼code討論程式碼
 
 ## 場次及主題
