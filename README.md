@@ -25,30 +25,6 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 地點: 新北創力坊 - 新北市三重區重新路一段108號3樓(捷運台北橋站3樓)
 
 價錢: Free
-
-### 7/28
-
-#### __1. Rails i18n 多國語言實作技巧__ [投影片](https://hackmd.io/p/HJarJWGd#/)
-  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
-  
-#### __2. react 基本概念__ [投影片](http://frozenfung.herokuapp.com/react-intro)
-  講者: [李俊鋒](https://github.com/frozenfung) - iCook developer
-
-### 8/4 
-
-#### __1. Rails Feature testing with RSpec__ [投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
-  講者: [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer
-
-#### __2. 使用Vagrant 建立本機的虛擬環境__ [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
-  講者: [童睿騰](https://github.com/jamestong10) - fullstack developer
- 
-### 8/11
-
-#### __1. Play CSS3 animation as you can imagine__ [投影片](http://slides.com/lichin/animation_button)
-  講者: [林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern
-
-#### __2. CSS 動畫入門__ [投影片](https://hackmd.io/p/SJAl7UPY)
-  講者: [R+](https://github.com/Rplus) - CSS 龍套君
  
 ### 8/18
 
@@ -81,3 +57,30 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
   
 #### __2. 從缺，歡迎認養__
   講者: 從缺，歡迎認養
+
+
+## 過往主題
+
+### 7/28
+
+#### __1. Rails i18n 多國語言實作技巧__ [投影片](https://hackmd.io/p/HJarJWGd#/)
+  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
+  
+#### __2. react 基本概念__ [投影片](http://frozenfung.herokuapp.com/react-intro)
+  講者: [李俊鋒](https://github.com/frozenfung) - iCook developer
+
+### 8/4 
+
+#### __1. Rails Feature testing with RSpec__ [投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
+  講者: [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer
+
+#### __2. 使用Vagrant 建立本機的虛擬環境__ [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
+  講者: [童睿騰](https://github.com/jamestong10) - fullstack developer
+ 
+### 8/11
+
+#### __1. Play CSS3 animation as you can imagine__ [投影片](http://slides.com/lichin/animation_button)
+  講者: [林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern
+
+#### __2. CSS 動畫入門__ [投影片](https://hackmd.io/p/SJAl7UPY)
+  講者: [R+](https://github.com/Rplus) - CSS 龍套君
