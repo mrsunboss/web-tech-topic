@@ -32,7 +32,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
  
 ### 8/18
 
-#### __1. 我的Atom編輯器__
+#### __1. 我的Atom編輯器__ [投影片](https://hackmd.io/p/S1qpPFf5#/)
   講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
   
   主題說明: 選擇Atom or sublime~?! Atom有哪些好用的package~?!
