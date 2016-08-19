@@ -38,7 +38,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
   主題說明: 選擇Atom or sublime~?! Atom有哪些好用的package~?!
   
 
-#### __2. vue.js 初體驗：開發勞基法計算機__
+#### __2. vue.js 初體驗：開發勞基法計算機__ [投影片](https://hackmd.io/p/ryf8nW2Y)
   講者: [朱昱任](https://github.com/yurenju) - Vectr developer
  
 ### 8/25
