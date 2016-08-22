@@ -30,26 +30,15 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 價錢: Free
  
-### 8/18
-
-#### __1. 我的Atom編輯器__ [投影片](https://hackmd.io/p/S1qpPFf5#/)
-  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
-  
-  主題說明: 選擇Atom or sublime~?! Atom有哪些好用的package~?!
-  
-
-#### __2. vue.js 初體驗：開發勞基法計算機__ [投影片](https://hackmd.io/p/ryf8nW2Y)
-  講者: [朱昱任](https://github.com/yurenju) - Vectr developer
- 
 ### 8/25
 
 #### __1. S3！系統架構的好夥伴__
-  講者: 吳政賢
+  講者: [吳政賢](http://www.ioa.tw/)
   
   主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！
   
-#### __2. vue.js on rails - Rails engineer__
-  講者: [Vincent](https://github.com/GoodVincentTu)
+#### __2. vue.js on rails__
+  講者: [Vincent](https://github.com/GoodVincentTu) - Rails engineer
 
   主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
 
@@ -112,3 +101,13 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 #### __2. CSS 動畫入門__ [投影片](https://hackmd.io/p/SJAl7UPY)
   講者: [R+](https://github.com/Rplus) - CSS 龍套君
+
+### 8/18
+
+#### __1. 我的Atom編輯器__ [投影片](https://hackmd.io/p/S1qpPFf5#/)
+  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
+  
+  主題說明: 選擇Atom or sublime~?! Atom有哪些好用的package~?!
+  
+#### __2. vue.js 初體驗：開發勞基法計算機__ [投影片](https://hackmd.io/p/ryf8nW2Y)
+  講者: [朱昱任](https://github.com/yurenju) - Vectr developer
