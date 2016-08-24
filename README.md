@@ -4,7 +4,7 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library .. 
 
-預期每週將邀請2位講者、2個主題，每位30分鐘~1小時(含Q&A)
+每週將邀請2位講者、2個主題，每位30分鐘~1小時(含Q&A)
 
 任何想聽的主題，都可以在[這裡](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)許願，或『回覆 __+1__』
 
@@ -13,13 +13,10 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 我們會邀請有相關經驗的人來分享該主題
 
 ## 加入WTT聊天群組
-
-## 加入telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA
-
 telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA  
 gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼)
 
-一定要加入的原因是，用於討論 WTT 的主題內容 (實際上.. 優先取得報名連結)
+加入聊天群組方便與講師及其它參與者討論 WTT 的主題內容 (以及.. 優先取得報名連結)
 
 為什麼用 gitter? 因為gitter不審核、完全開放、而且可以寫markdown語法，貼code討論程式碼
 
@@ -42,72 +39,27 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
   主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
 
-### 9/1
+## 未來主題
 
-#### __1. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
-  
-#### __2. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
-
-### 9/8
-
-#### __1. docker__
-  講者: [謝蹤影]()
-  
-#### __2. Elastic Search on Rails 相關 gem 的使用__
-  講者: [柯秉承]()
-
-### 9/15 (中秋停辦)
-
-### 9/22
-
-#### __1. Through HTTP Protocol to Learn Web Request__
-  講者: 蔡秉文
-  
-#### __2. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
-  
-### 9/29
-
-#### __1. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
-  
-#### __2. 從缺，歡迎認養__
-  講者: 從缺，歡迎認養
+日期|講者|主題|投影片
+----|----|----|----
+9/1|未定- [我可以分享](https://www.facebook.com/jcsky.wang)
+||未定- [我可以分享](https://www.facebook.com/jcsky.wang)
+9/8|[謝蹤影]()|docker|
+||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
+9/15|中秋停辦
+9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
+||未定- [我可以分享](https://www.facebook.com/jcsky.wang)
 
 ## 過往主題
 
-### 7/28
-
-#### __1. Rails i18n 多國語言實作技巧__ [投影片](https://hackmd.io/p/HJarJWGd#/)
-  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
-  
-#### __2. react 基本概念__ [投影片](http://frozenfung.herokuapp.com/react-intro)
-  講者: [李俊鋒](https://github.com/frozenfung) - iCook developer
-
-### 8/4 
-
-#### __1. Rails Feature testing with RSpec__ [投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
-  講者: [陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer
-
-#### __2. 使用Vagrant 建立本機的虛擬環境__ [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
-  講者: [童睿騰](https://github.com/jamestong10) - fullstack developer
- 
-### 8/11
-
-#### __1. Play CSS3 animation as you can imagine__ [投影片](http://slides.com/lichin/animation_button)
-  講者: [林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern
-
-#### __2. CSS 動畫入門__ [投影片](https://hackmd.io/p/SJAl7UPY)
-  講者: [R+](https://github.com/Rplus) - CSS 龍套君
-
-### 8/18
-
-#### __1. 我的Atom編輯器__ [投影片](https://hackmd.io/p/S1qpPFf5#/)
-  講者: [王信凱](github.com/jcsky) - Amazing-Tutor 技術長
-  
-  主題說明: 選擇Atom or sublime~?! Atom有哪些好用的package~?!
-  
-#### __2. vue.js 初體驗：開發勞基法計算機__ [投影片](https://hackmd.io/p/ryf8nW2Y)
-  講者: [朱昱任](https://github.com/yurenju) - Vectr developer
+日期|講者|主題|投影片
+----|----|----|----
+7/28|[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Rails i18n 多國語言實作技巧|[投影片](https://hackmd.io/p/HJarJWGd#/)
+||[李俊鋒](https://github.com/frozenfung) - iCook developer|react 基本概念|[投影片](http://frozenfung.herokuapp.com/react-intro)
+8/4|[陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer|Rails Feature testing with RSpec|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
+||[童睿騰](https://github.com/jamestong10) - Wish8 fullstack developer|使用Vagrant 建立本機的虛擬環境| [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
+8/11|[林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern|Play CSS3 animation as you can imagine|[投影片](http://slides.com/lichin/animation_button)
+||[R+](https://github.com/Rplus) - CSS 龍套君|CSS 動畫入門|[投影片](https://hackmd.io/p/SJAl7UPY)
+8/18|[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
+||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
