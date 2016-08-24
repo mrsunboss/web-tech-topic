@@ -12,6 +12,8 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 我們會邀請有相關經驗的人來分享該主題
 
+除了主題分享之外，大家對於有興趣研究的技術項目可以參與各項[線上讀書會](goo.gl/mQbjWw)，一起組團打怪!
+
 ## 加入WTT聊天群組
 telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA  
 gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼)
