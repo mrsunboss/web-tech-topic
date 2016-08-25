@@ -8,11 +8,11 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 任何想聽的主題，都可以在[這裡](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)許願，或『回覆 __+1__』
 
-若願意對[這些](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)主題做分享的話，請[與我聯絡]((https://www.facebook.com/jcsky.wang)
+若願意對[這些](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)主題做分享的話，請[與我聯絡](https://www.facebook.com/messages/100000710672478)
 
 我們會邀請有相關經驗的人來分享該主題
 
-除了主題分享之外，大家對於有興趣研究的技術項目可以參與各個 [**線上讀書會**](goo.gl/mQbjWw)，一起組團打怪! 後續再將讀書會的收獲與心得整理[報名 WTT 分享](https://www.facebook.com/jcsky.wang)喲 ~~
+除了主題分享之外，大家對於有興趣研究的技術項目可以參與各個 [**線上讀書會**](goo.gl/mQbjWw)，一起組團打怪! 後續再將讀書會的收獲與心得整理[報名 WTT 分享](https://www.facebook.com/messages/100000710672478)喲 ~~
 
 ## 加入WTT聊天群組
 telegram: https://telegram.me/joinchat/DTFVKQeN15Zgio41Ex1ysA  
