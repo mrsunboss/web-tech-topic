@@ -65,4 +65,4 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[R+](https://github.com/Rplus) - CSS 龍套君|CSS 動畫入門|[投影片](https://hackmd.io/p/SJAl7UPY)
 8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
-8/18|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
+8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
