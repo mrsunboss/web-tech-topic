@@ -32,7 +32,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ### 8/25
 
 #### __1. S3！系統架構的好夥伴__
-  講者: [吳政賢](https://github.com/comdan66)
+  講者: [吳政賢](https://github.com/comdan66) - FullStack Developer
   
   主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！
   
@@ -63,5 +63,6 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[童睿騰](https://github.com/jamestong10) - Wish8 fullstack developer|使用Vagrant 建立本機的虛擬環境| [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
 8/11|[林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern|Play CSS3 animation as you can imagine|[投影片](http://slides.com/lichin/animation_button)
 ||[R+](https://github.com/Rplus) - CSS 龍套君|CSS 動畫入門|[投影片](https://hackmd.io/p/SJAl7UPY)
-8/18|[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
+8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
+8/18|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
