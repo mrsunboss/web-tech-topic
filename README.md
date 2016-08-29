@@ -47,7 +47,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ----|----|----|----
 9/1|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-9/8|[謝蹤影]()|docker|
+9/8|[蹤影 Spooky](http://trunk.studio/blog/) 創科資訊研發經理暨共同創辦人|從零開始認識 Docker|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
