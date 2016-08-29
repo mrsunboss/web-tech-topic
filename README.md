@@ -2,7 +2,7 @@
 
 Web Tech Topic 是每週一次的主題式技術分享聚會
 
-主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library .. 
+主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library ..
 
 每週將邀請2位講者、2個主題，每位30分鐘~1小時(含Q&A)
 
@@ -28,14 +28,14 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 地點: 新北創力坊 - 新北市三重區重新路一段108號3樓(捷運台北橋站3樓)
 
 價錢: Free
- 
+
 ### 8/25
 
 #### __1. S3！系統架構的好夥伴__
   講者: [吳政賢](https://github.com/comdan66) - FullStack Developer
-  
+
   主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！
-  
+
 #### __2. vue.js on rails__
   講者: [Vincent](https://github.com/GoodVincentTu) - Rails engineer
 
@@ -47,7 +47,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ----|----|----|----
 9/1|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-9/8|[蹤影 Spooky](http://trunk.studio/blog/) 創科資訊研發經理暨共同創辦人|從零開始認識 Docker|
+9/8|[謝宗穎](http://trunk.studio/blog/) Trunk Studio Team Leader|從零開始認識 Docker|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
