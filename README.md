@@ -52,6 +52,9 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
+9/30|[Jade]()|Power BI and Power BI embedded||
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+
 
 
 ## 過往主題
