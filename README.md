@@ -43,9 +43,9 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 ## 未來主題
 
-日期|講者|主題|投影片
-----|----|----|----
-9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門|
+|日期|講者|主題|投影片|
+|----|----|----|----|
+|9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門|
 ||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code|
 9/8|[謝宗穎](http://trunk.studio/blog/) Trunk Studio Team Leader|從零開始認識 Docker|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
