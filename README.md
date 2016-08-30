@@ -45,16 +45,19 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 日期|講者|主題|投影片
 ----|----|----|----
-9/1|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門|
+||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code|
 9/8|[謝宗穎](http://trunk.studio/blog/) Trunk Studio Team Leader|從零開始認識 Docker|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
-9/30|[Jade]()|Power BI and Power BI embedded||
+9/29|[Jade]()|Power BI and Power BI embedded||
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-
+10/6|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+10/13|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 
 
 ## 過往主題
@@ -70,3 +73,4 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
 8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
+|[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails|
