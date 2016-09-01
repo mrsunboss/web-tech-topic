@@ -73,4 +73,4 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
 8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
-||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails|
+||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails|[投影片](http://slides.com/metatrontu/deck-1)
