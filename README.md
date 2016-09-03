@@ -29,24 +29,12 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 價錢: Free
 
-### 8/25
-
-#### __1. S3！系統架構的好夥伴__
-  講者: [吳政賢](https://github.com/comdan66) - FullStack Developer
-
-  主題說明: Amazon S3 是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！
-
-#### __2. vue.js on rails__
-  講者: [Vincent](https://github.com/GoodVincentTu) - Rails engineer
-
-  主題說明: Show the basic vue.js and rails api mechanism through an basic implementation
-
 ## 未來主題
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
 9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|
-||[Kait Wang - uknowiknow]( https://sibevin.github.io/)|Rails Migration & Model欄位設計原則|[投影片]()|
+||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片]()|
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
@@ -70,7 +58,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[R+](https://github.com/Rplus) - CSS 龍套君|CSS 動畫入門|[投影片](https://hackmd.io/p/SJAl7UPY)
 8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
-8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴|[投影片](https://github.com/comdan66/weather/tree/master/document)
-||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails|[投影片](http://slides.com/metatrontu/deck-1)
+8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴<br>主題說明: Amazon S3是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！|[投影片](https://github.com/comdan66/weather/tree/master/document)
+||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails<br>主題說明:Show the basic vue.js and rails api mechanism through an basic implementation|[投影片](http://slides.com/metatrontu/deck-1)
 |9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門<br>適合對象:javascript, RoR 基礎, 希望網站有語音通話功能的工程師|[投影片](http://www.slideshare.net/crsgypinChiu/web-rtc-65613228)
 ||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code<br>適合對象: 已學會 Ruby on Rails CRUD 者|
