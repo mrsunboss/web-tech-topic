@@ -46,7 +46,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 |日期|講者|主題|投影片|
 |----|----|----|----|
 9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|
-||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||[Kait Wang - uknowiknow]( https://sibevin.github.io/)|Rails Migration & Model欄位設計原則|[投影片]()|
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
