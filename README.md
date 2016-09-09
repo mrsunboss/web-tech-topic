@@ -33,8 +33,6 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
-9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|
-||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片]()|
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
@@ -42,10 +40,16 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
 ||未定- [許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|
-10/13|[王仁宏]()|Wireless security
+10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-
-
+10/20|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+10/27|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/03|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/10|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ## 過往主題
 
 日期|講者|主題|投影片
@@ -62,3 +66,5 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails<br>主題說明:Show the basic vue.js and rails api mechanism through an basic implementation|[投影片](http://slides.com/metatrontu/deck-1)
 |9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門<br>適合對象:javascript, RoR 基礎, 希望網站有語音通話功能的工程師|[投影片](http://www.slideshare.net/crsgypinChiu/web-rtc-65613228)
 ||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code<br>適合對象: 已學會 Ruby on Rails CRUD 者|
+9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|
+||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/rails_migration_and_model_column_design_principle_1.0.1.pdf)|
