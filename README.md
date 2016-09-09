@@ -50,6 +50,10 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/10|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+
+未定:
+劉庭安:Paper.js
+
 ## 過往主題
 
 日期|講者|主題|投影片
