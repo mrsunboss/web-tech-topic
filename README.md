@@ -36,7 +36,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 9/15|中秋停辦
 9/22|[蔡秉文]()|Through HTTP Protocol to Learn Web Request|
 ||[柯秉承]()|Elastic Search on Rails 相關 gem 的使用|
-9/29|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有玩過css border-radius,css animation , 跟有一顆準備好講者不太優的心理準備的心|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|
