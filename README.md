@@ -6,9 +6,9 @@ Web Tech Topic 是每週一次的主題式技術分享聚會
 
 每週將邀請2位講者、2個主題，每位30分鐘~1小時(含Q&A)
 
-任何想聽的主題，都可以在[這裡](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)許願，或『回覆 __+1__』
+任何想聽的主題，都可以在[這裡](https://github.com/AmazingTalker/web-tech-topic/issues)許願，或『回覆 __+1__』
 
-若願意對[這些](https://github.com/amazing-tutor/web-tutor-on-thursday/issues)主題做分享的話，請[與我聯絡](https://www.facebook.com/messages/100000710672478)
+若願意對[這些](https://github.com/AmazingTalker/web-tech-topic/issues)主題做分享的話，請[與我聯絡](https://www.facebook.com/messages/100000710672478)
 
 我們會邀請有相關經驗的人來分享該主題
 
