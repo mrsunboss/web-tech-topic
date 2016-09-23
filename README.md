@@ -33,9 +33,6 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
-9/15|中秋停辦
-9/22|[蔡秉文](https://github.com/CookieTsai, http://tsai-cookie.blogspot.tw/) - 不專業路人餅|Through HTTP Protocol to Learn Web Request<br>這是一場簡單的演講，我們將深入了解 Client & Server 間的作動|
-||[柯秉承](https://github.com/run26kimo) - commandp 資深工程師|Rails + Elastic Search 好簡單<br>使用 Rails gem 'searchkick'，讓 Rails + Elastic Search 快速上手<br>適合對象: 有用過 Rails, Elastic Search|[投影片](http://slides.com/richke/searchkik)
 9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有玩過css border-radius,css animation , 跟有一顆準備好講者不太優的心理準備的心|
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
@@ -72,3 +69,5 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code<br>適合對象: 已學會 Ruby on Rails CRUD 者|
 9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|[投影片](http://www.slideshare.net/trunk-studio/docker-65378344)
 ||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/rails_migration_and_model_column_design_principle_1.0.1.pdf)|
+9/22|[蔡秉文](https://github.com/CookieTsai, http://tsai-cookie.blogspot.tw/) - 不專業路人餅|Through HTTP Protocol to Learn Web Request<br>這是一場簡單的演講，我們將深入了解 Client & Server 間的作動|
+||[柯秉承](https://github.com/run26kimo) - commandp 資深工程師|Rails + Elastic Search 好簡單<br>使用 Rails gem 'searchkick'，讓 Rails + Elastic Search 快速上手<br>適合對象: 有用過 Rails, Elastic Search|[投影片](http://slides.com/richke/searchkik)
