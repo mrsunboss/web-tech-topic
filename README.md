@@ -34,7 +34,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 |日期|講者|主題|投影片|
 |----|----|----|----|
 9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有用過基礎的css，而且覺得用純css畫圖很潮很炫|
-||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|
 10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
