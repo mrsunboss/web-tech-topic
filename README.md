@@ -33,8 +33,6 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
-9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有用過基礎的css，而且覺得用純css畫圖很潮很炫|
-||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手
 10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|
 10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
@@ -71,3 +69,5 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/rails_migration_and_model_column_design_principle_1.0.1.pdf)|
 9/22|[蔡秉文](https://github.com/CookieTsai, http://tsai-cookie.blogspot.tw/) - 不專業路人餅|Through HTTP Protocol to Learn Web Request<br>這是一場簡單的演講，我們將深入了解 Client & Server 間的作動|
 ||[柯秉承](https://github.com/run26kimo) - commandp 資深工程師|Rails + Elastic Search 好簡單<br>使用 Rails gem 'searchkick'，讓 Rails + Elastic Search 快速上手<br>適合對象: 有用過 Rails, Elastic Search|[投影片](http://slides.com/richke/searchkik)
+9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有用過基礎的css，而且覺得用純css畫圖很潮很炫|
+||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手
