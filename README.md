@@ -37,7 +37,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|
 10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-10/20|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)|Rails BDD
+10/20|[MarsZ](github.com/marsz) - 伍樓專業執行長|BDD 導入經驗分享<br>分享 BDD （行為驅動開發）導入前後對開發團隊在工作流程上的影響，以及導入過程中的慘痛經驗分享<br>適合:沒寫測試習慣想要導入測試的開發者、有寫測試習慣但希望能更精進寫測試的開發者
 ||[sdlong](https://github.com/sdlong)|Rails Rspec 心得分享<br>用 Rspec 撰寫 Rails 的測試，主要分享撰寫 Rspec 測試的基礎概念，以及一個可以 follow 的方法論，來讓你在撰寫的過程中，找到寫測試的方向<br>適合:有寫過 Ruby on Rails , 對 Rspec 寫測試有興趣者|
 10/27|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
