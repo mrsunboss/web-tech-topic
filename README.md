@@ -69,5 +69,5 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[柯秉承](https://github.com/run26kimo) - commandp 資深工程師|Rails + Elastic Search 好簡單<br>使用 Rails gem 'searchkick'，讓 Rails + Elastic Search 快速上手<br>適合對象: 有用過 Rails, Elastic Search|[投影片](http://slides.com/richke/searchkik)
 9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有用過基礎的css，而且覺得用純css畫圖很潮很炫|
 ||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手
-10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友||
+10/6|[James](https://github.com/zxcand)|Power BI and Power BI embedded<br>主題描述: 分享如何透過Power BI 把資料視覺化轉換成互動報表，並內嵌至您的應用程式讓資料一目了然！<br>適合對象:  想要製作BI報表，或將BI報表整合至Web/Mobile的朋友|[投影片](https://github.com/AmazingTalker/web-tech-topic/blob/master/slider/WTT10_PowerBI.pdf)|
 ||[許承德 - Firstweb Limited F2E](http://tedshd.github.io/resume/)|firebase for web|[投影片](https://docs.google.com/presentation/d/1we7yKYl1FtvmLaLdrLHml1j49LCd5qIVC8F04hyjqtM/edit?usp=sharing)
