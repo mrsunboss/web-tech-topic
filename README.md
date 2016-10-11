@@ -34,7 +34,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 |日期|講者|主題|投影片|
 |----|----|----|----|
 10/13|[Eric](https://tw.linkedin.com/in/momolbj) - momoLBJ|無線網路的奇幻旅程<br>主題描述: 用一個比較輕鬆的氣氛帶領大家進入一段無線網路的奇幻旅程，瞭解無線網路是很(不)安全的，以及身為使用者的我們該如何保護自己<br>適合對象: 瞭解基礎網路原理者尤佳，一般人也可
-||[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|Rails5 WebSocket demo<br>說明如何使用Rails5的ActionCable實作WebSocket連線<br>適合對象:正在使用Rails的開發者
+||[王信凱](https://github.com/jcsky) - AmazingTalker 技術長|Rails5 WebSocket demo<br>說明如何使用Rails5的ActionCable實作WebSocket連線<br>適合對象:正在使用Rails的開發者
 10/20|[MarsZ](github.com/marsz) - 伍樓專業執行長|BDD 導入經驗分享<br>分享 BDD （行為驅動開發）導入前後對開發團隊在工作流程上的影響，以及導入過程中的慘痛經驗分享<br>適合:沒寫測試習慣想要導入測試的開發者、有寫測試習慣但希望能更精進寫測試的開發者
 ||[sdlong](https://github.com/sdlong)|Rails Rspec 心得分享<br>用 Rspec 撰寫 Rails 的測試，主要分享撰寫 Rspec 測試的基礎概念，以及一個可以 follow 的方法論，來讓你在撰寫的過程中，找到寫測試的方向<br>適合:有寫過 Ruby on Rails , 對 Rspec 寫測試有興趣者|
 10/27|[Wilson Liu]() - Data Engineer at Paktor|Data Pipeline in Paktor & Optus
@@ -51,18 +51,18 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 日期|講者|主題|投影片
 ----|----|----|----
-7/28|[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Rails i18n 多國語言實作技巧|[投影片](https://hackmd.io/p/HJarJWGd#/)
+7/28|[王信凱](github.com/jcsky) - AmazingTalker 技術長|Rails i18n 多國語言實作技巧|[投影片](https://hackmd.io/p/HJarJWGd#/)
 ||[李俊鋒](https://github.com/frozenfung) - iCook developer|react 基本概念|[投影片](http://frozenfung.herokuapp.com/react-intro)
 8/4|[陳麒文](https://www.facebook.com/chiwenchen.tw?fref=ts) - Wish8 fullstack developer|Rails Feature testing with RSpec|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/RSpec%20in%20WTT-02.pdf)
 ||[童睿騰](https://github.com/jamestong10) - Wish8 fullstack developer|使用Vagrant 建立本機的虛擬環境| [投影片](http://www.slideshare.net/TungKai/wtt-vagrant-tutorial)
 8/11|[林立秦](https://www.facebook.com/profile.php?id=100000377206811) - 25sprout front-end intern|Play CSS3 animation as you can imagine|[投影片](http://slides.com/lichin/animation_button)
 ||[R+](https://github.com/Rplus) - CSS 龍套君|CSS 動畫入門|[投影片](https://hackmd.io/p/SJAl7UPY)
-8/18|[王信凱](https://github.com/jcsky) - Amazing-Tutor 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
+8/18|[王信凱](https://github.com/jcsky) - AmazingTalker 技術長|我的Atom編輯器|[投影片](https://hackmd.io/p/S1qpPFf5#/)
 ||[朱昱任](https://github.com/yurenju) - Vectr developer|vue.js 初體驗：開發勞基法計算機|[投影片](https://hackmd.io/p/ryf8nW2Y)
 8/25|[吳政賢](http://www.ioa.tw) - FullStack Developer|S3！系統架構的好夥伴<br>主題說明: Amazon S3是個系統效能的好夥伴，利用這個雲空間，可以有 安全佳、空間大、價錢低、流量狂 等優點喲！就讓我用 Weather Maps 天氣地圖來介紹說明吧！|[投影片](https://github.com/comdan66/weather/tree/master/document)
 ||[Vincent](https://github.com/GoodVincentTu) - Rails engineer|Vue.js on rails<br>主題說明:Show the basic vue.js and rails api mechanism through an basic implementation|[投影片](http://slides.com/metatrontu/deck-1)
 |9/1|[邱繼平]() - Eyehouse 全端工程師|WebRTC入門<br>適合對象:javascript, RoR 基礎, 希望網站有語音通話功能的工程師|[投影片](http://www.slideshare.net/crsgypinChiu/web-rtc-65613228)
-||[王信凱](github.com/jcsky) - Amazing-Tutor 技術長|Basic process to clean your rails code<br>適合對象: 已學會 Ruby on Rails CRUD 者|
+||[王信凱](github.com/jcsky) - AmazingTalker 技術長|Basic process to clean your rails code<br>適合對象: 已學會 Ruby on Rails CRUD 者|
 9/8|[謝宗穎](http://trunk.studio/blog/) - Trunk Studio Team Leader|從零開始認識 Docker<br>主題描述: 說明 Docker 基本概念以及 Docker 相關特性，透過 Docker 進行環境建置及前端自動化測試讓與會者瞭解 Docker 應用適合的情境<br>Topic 適合對象: Docker 使用者、DevOps、或考慮應用 Docker 技術的朋友|[投影片](http://www.slideshare.net/trunk-studio/docker-65378344)
 ||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/rails_migration_and_model_column_design_principle_1.0.1.pdf)|
 9/22|[蔡秉文](https://github.com/CookieTsai, http://tsai-cookie.blogspot.tw/) - 不專業路人餅|Through HTTP Protocol to Learn Web Request<br>這是一場簡單的演講，我們將深入了解 Client & Server 間的作動|
