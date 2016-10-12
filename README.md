@@ -46,6 +46,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 
 未定:
 劉庭安:Paper.js
+林揚興SeniorWebDeveloper@Codementor:Unit Test With RSpec 
 
 ## 過往主題
 
