@@ -39,7 +39,7 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[sdlong](https://github.com/sdlong)|Rails Rspec 心得分享<br>用 Rspec 撰寫 Rails 的測試，主要分享撰寫 Rspec 測試的基礎概念，以及一個可以 follow 的方法論，來讓你在撰寫的過程中，找到寫測試的方向<br>適合:有寫過 Ruby on Rails , 對 Rspec 寫測試有興趣者|
 10/27|[Wilson Liu]() - Data Engineer at Paktor|Data Pipeline in Paktor & Optus<br>本主題不提供直播僅限現場聽眾參與
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
-11/03|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/03|[Ch Rick](http://www.dotblogs.com.tw/mrsunboss/)|React
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/10|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
