@@ -43,12 +43,14 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 11/10|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/17|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+11/24|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
+||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 
 邀請中:
 
 劉庭安:Paper.js
-
-林揚興SeniorWebDeveloper@Codementor:Unit Test With RSpec 
 
 Simon: js (12月)
 
