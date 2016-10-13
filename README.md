@@ -44,9 +44,15 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 11/10|未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 ||未定- [我可以分享](https://www.facebook.com/messages/100000710672478)
 
-未定:
+邀請中:
+
 劉庭安:Paper.js
+
 林揚興SeniorWebDeveloper@Codementor:Unit Test With RSpec 
+
+Simon: js (12月)
+
+Pilagod Ho:  (12月)
 
 ## 過往主題
 
